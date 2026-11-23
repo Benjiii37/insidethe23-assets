@@ -1,0 +1,44 @@
+{
+  "_rules": "Status flow: pending -> approved (only Ben approves) -> posted. The 7pm posting task only publishes 'approved' items whose date is today (Europe/London).",
+  "posts": [
+    {
+      "date": "2026-11-25",
+      "slot": "Wed 7pm",
+      "type": "carousel",
+      "series": "Pro to club",
+      "folder": "2026-11-25-pro-to-club-press",
+      "slides": 6,
+      "caption": "Pro to club #1: the press.\n\nElite sides press with their front three screening the middle, forcing the ball wide. Copy that on a Saturday and your 9 is done by the 15th minute.\n\nThe club version: give them the first pass, trap the second. Use the sideline as your extra defender and keep it to three calls: show wide, lock, back.\n\nTry it for 15 minutes this weekend and tell us how it went.\n\n#fieldhockey #hockeytactics #clubhockey #englandhockey #hockeycoaching #hockeyplayer",
+      "status": "pending",
+      "media_id": null,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-25-pro-to-club-press/01.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-25-pro-to-club-press/02.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-25-pro-to-club-press/03.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-25-pro-to-club-press/04.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-25-pro-to-club-press/05.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-25-pro-to-club-press/06.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "slot": "Mon 7pm",
+      "type": "carousel",
+      "series": "Memes",
+      "folder": "2026-11-30-club-hockey-translated",
+      "slides": 7,
+      "caption": "Club hockey, translated.\n\nTag the teammate who says number 4 every single week.\n\n#fieldhockey #clubhockey #hockeymemes #hockeylife #englandhockey",
+      "status": "pending",
+      "media_id": null,
+      "image_urls": [
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/01.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/02.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/03.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/04.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/05.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/06.jpg",
+        "https://raw.githubusercontent.com/Benjiii37/insidethe23-assets/main/posts/2026-11-30-club-hockey-translated/07.jpg"
+      ]
+    }
+  ]
+}
